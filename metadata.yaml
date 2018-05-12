@@ -1,0 +1,27 @@
+_repo: The-Spell-of-Japan_41722
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41722-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Anderson, Isabel
+    birthdate: 1876
+    deathdate: 1948
+    gutenberg_agent_id: '40775'
+    url: http://www.gutenberg.org/2009/agents/40775
+description: ''
+gutenberg_issued: '2012-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41722'
+  lccn: '14014483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan'
+- !lcc 'DS'
+title: The Spell of Japan
+url: http://www.gutenberg.org/ebooks/41722
